@@ -1,5 +1,0 @@
-{{#user}}
-Name: Ritik Anubhav
-Skills: HTML, CSS, JS, React.js,Firebase
-Email: ritikanubhav59@gmail.com
-{{/user}}
